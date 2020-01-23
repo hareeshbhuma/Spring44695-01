@@ -25,6 +25,7 @@ public class QueueDemo {
         aq.add(12);
         aq.add(34);
         aq.add(65);
+        aq.add(32);
         aq.remove();
         System.out.println(aq.offer(67));
         System.out.println(aq);
